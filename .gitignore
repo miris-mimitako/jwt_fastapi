@@ -1,1 +1,4 @@
-/venv
+/venv/__pycache__/
+/venv/include
+/venv/lib
+/venv/Scripts
